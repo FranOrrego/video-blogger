@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Oceans (MP4)",
+    "src": "https://vjs.zencdn.net/v/oceans.mp4",
+    "type": "video/mp4",
+    "poster": ""
+  },
+  {
+    "name": "Sintel (m3u8)",
+    "src": "https://d2zihajmogu5jn.cloudfront.net/sintel/master.m3u8",
+    "type": "application/x-mpegURL",
+    "poster": ""
+  },
+  {
+    "name": "Video Fallido (Error)",
+    "src": "https://example.com/nonexistent.mp4",
+    "type": "video/mp4",
+    "poster": ""
+  }
+]
